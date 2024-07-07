@@ -1,16 +1,38 @@
-## Hi there 👋
+# Glyph-Dev
 
-<!--
-**Glyph-Dev/Glyph-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the GitHub Account of Glyph-Dev!. This README serves as a guide to my projects, organized into categories for easy navigation.
 
-Here are some ideas to get you started:
+## Table of Contents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Web Development](#web-development)
+- [Mobile Development](#mobile-development)
+- [Contact](#contact)
+
+
+## Minecraft Bot Development
+
+### [glyph-minecraft-bot-dashboard](https://github.com/Glyph-Dev/glyph-minecraft-bot-dashboard)
+Minecraft Bot Dashboard (automatic trading)
+
+
+## Minecraft Plugin Development
+
+### [?](coming-soon)
+coming soon...
+
+
+## Software Development
+
+### [chess-game](https://github.com/Glyph-Dev/chess-game)
+Digital Chess Game
+
+
+## Extras
+
+### [java-util](https://github.com/Glyph-Dev/java-util)
+Useful Java additions
+
+
+## Contact
+
+For any inquiries, please contact me on [Discord](https://discordapp.com/users/512330341805981702/).

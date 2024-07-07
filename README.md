@@ -1,6 +1,6 @@
 # Glyph-Dev
 
-Welcome to the GitHub Account of Glyph-Dev!. This README serves as a guide to my projects, organized into categories for easy navigation.
+Welcome to the GitHub Account of Glyph-Dev! This README serves as a guide to my projects, organized into categories for easy navigation.
 
 ## Table of Contents
 

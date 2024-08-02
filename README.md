@@ -28,6 +28,9 @@ coming soon...
 ### [chess-game](https://github.com/Glyph-Dev/chess-game)
 Digital Chess Game
 
+### [file-encrypter](https://github.com/Glyph-Dev/file-encrypter)
+File Encrypter
+
 
 ## Extras
 

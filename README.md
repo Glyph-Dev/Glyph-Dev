@@ -24,7 +24,7 @@ Minecraft Bot Dashboard (automatic trading)
 coming soon...
 
 
-## Minecraft Bot Development
+## Discord Bot Development
 
 ### [yuko-discord-bot](https://github.com/Glyph-Dev/yuko-discord-bot)
 Intelligent, multi-purpose Discord Bot

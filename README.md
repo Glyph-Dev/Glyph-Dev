@@ -42,7 +42,7 @@ File Encrypter
 ## Extras
 
 ### [ai-chat-generation](https://github.com/Glyph-Dev/ai-chat-generation)
-Useful Java additions
+AI Chat Generation Backend
 
 ### [java-util](https://github.com/Glyph-Dev/java-util)
 Useful Java additions

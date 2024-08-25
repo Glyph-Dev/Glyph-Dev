@@ -7,6 +7,7 @@ Welcome to the GitHub Account of Glyph-Dev! This README serves as a guide to my 
 - [Minecraft Bot Development](#minecraft-bot-development)
 - [Minecraft Plugin Development](#minecraft-plugin-development)
 - [Discord Bot Development](#discord-bot-development)
+- [Web Development](#web-development)
 - [Software Development](#software-development)
 - [Extras](#extras)
 - [Contact](#contact)
@@ -28,6 +29,12 @@ coming soon...
 
 ### [yuko-discord-bot](https://github.com/Glyph-Dev/yuko-discord-bot)
 Intelligent, multi-purpose Discord Bot
+
+
+## Web Development
+
+### [glyph-web](https://github.com/Glyph-Dev/glyph-web)
+Personal Website
 
 
 ## Software Development

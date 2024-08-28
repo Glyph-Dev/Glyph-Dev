@@ -31,6 +31,12 @@ coming soon...
 Intelligent, multi-purpose Discord Bot
 
 
+## App Development
+
+### [glyph-app](https://github.com/Glyph-Dev/glyph-app)
+Personal App
+
+
 ## Web Development
 
 ### [glyph-web](https://github.com/Glyph-Dev/glyph-web)

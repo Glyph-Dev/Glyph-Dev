@@ -7,6 +7,7 @@ Welcome to the GitHub Account of Glyph-Dev! This README serves as a guide to my 
 - [Minecraft Bot Development](#minecraft-bot-development)
 - [Minecraft Plugin Development](#minecraft-plugin-development)
 - [Discord Bot Development](#discord-bot-development)
+- [App Development](#app-development)
 - [Web Development](#web-development)
 - [Software Development](#software-development)
 - [Extras](#extras)

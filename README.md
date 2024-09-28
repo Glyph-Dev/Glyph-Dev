@@ -29,7 +29,7 @@ A Minecraft plugin that creates a moon-like world filled with custom features an
 ## Discord Bot Development
 
 ### [yuko-discord-bot](https://github.com/Glyph-Dev/yuko-discord-bot)
-An intelligent, multi-purpose Discord bot designed to enhance server engagement. Features include moderation tools, an AI implementation via (#ai-chat-generation) and interactive commands to foster community interaction.
+An intelligent, multi-purpose Discord bot designed to enhance server engagement. Features include moderation tools, an AI implementation via [ai-chat-generation](#ai-chat-generation) and interactive commands to foster community interaction.
 
 ## App Development
 

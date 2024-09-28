@@ -21,7 +21,7 @@ A user-friendly dashboard for managing Minecraft bots. This tool facilitates aut
 ## Minecraft Plugin Development
 
 ### [auto-reload-minecraft-plugin](https://github.com/Glyph-Dev/auto-reload-minecraft-plugin)
-A plugin that automatically reloads Minecraft server configurations without the need for a restart, streamlining the development process for server administrators.
+A plugin that automatically restarts/reloads Minecraft server configurations and deletes all world saves on plugin .jar update, streamlining the development process for server administrators.
 
 ### [world-system-minecraft-plugin](https://github.com/Glyph-Dev/world-system-minecraft-plugin)
 A Minecraft plugin that creates a moon-like world filled with custom features and new adventures. This is a larger proof-of-concept project designed to enhance gameplay and expand exploration possibilities.
@@ -29,27 +29,27 @@ A Minecraft plugin that creates a moon-like world filled with custom features an
 ## Discord Bot Development
 
 ### [yuko-discord-bot](https://github.com/Glyph-Dev/yuko-discord-bot)
-An intelligent, multi-purpose Discord bot designed to enhance server engagement. Features include moderation tools, music playback, and interactive commands to foster community interaction.
+An intelligent, multi-purpose Discord bot designed to enhance server engagement. Features include moderation tools, an AI implementation via (#ai-chat-generation) and interactive commands to foster community interaction.
 
 ## App Development
 
 ### [glyph-app](https://github.com/Glyph-Dev/glyph-app)
-A private, multi-purpose app currently in development with Xcode for iOS. It aims to provide versatile functionalities but is still in the early stages due to time constraints.
+A private, multi-purpose app currently in early development with Xcode for iOS. It aims to provide versatile functionalities but is still in the early stages due to time constraints.
 
 ## Web Development
 
 ### [glyph-web](https://github.com/Glyph-Dev/glyph-web)
-A personal website showcasing my projects, skills, and blog posts. Built with [technologies used, e.g., HTML, CSS, JavaScript, etc.], it serves as a portfolio and a contact point.
+A personal website showcasing my projects, skills, and blog posts. Built with Micronaut (Java), HTML, CSS, JavaScript, it serves as a portfolio and a contact point.
 
 ## Software Development
 
 ### [file-encrypter](https://github.com/Glyph-Dev/file-encrypter)
-A secure file encryption tool that allows users to encrypt and decrypt files using various algorithms, ensuring data privacy and security.
+A secure file encryption tool that allows users to encrypt and decrypt files using the secure SHA-256 algorithm, ensuring data privacy and security.
 
 ## Extras
 
 ### [ai-chat-generation](https://github.com/Glyph-Dev/ai-chat-generation)
-A backend service for generating AI-driven chat responses, utilizing Cohere/Groq to provide a seamless chat experience.
+A Flask backend service for generating AI-driven chat responses, utilizing Cohere/Groq to provide a seamless chat experience.
 
 ## Contact
 

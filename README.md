@@ -41,6 +41,9 @@ A private, multi-purpose app currently in early development with Xcode for iOS. 
 ### [glyph-web](https://github.com/Glyph-Dev/glyph-web)
 A personal website showcasing my projects, skills, and blog posts. Built with Micronaut (Java), HTML, CSS, JavaScript, it serves as a portfolio and a contact point.
 
+### [glyph-dev.github.io](https://github.com/Glyph-Dev/glyph-dev.github.io)
+A GitHub Pages site that serves as a portfolio for my projects, providing insights and information about my work and skills.
+
 ## Software Development
 
 ### [file-encrypter](https://github.com/Glyph-Dev/file-encrypter)
